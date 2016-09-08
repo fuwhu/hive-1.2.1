@@ -5,6 +5,9 @@ The Apache Hive (TM) data warehouse software facilitates querying and
 managing large datasets residing in distributed storage. Built on top
 of Apache Hadoop (TM), it provides:
 
+this version of hive is based on hive 1.2.1 and change some source code
+for wang28103/spark-1.5.2-hive-auth
+
 * Tools to enable easy data extract/transform/load (ETL)
 
 * A mechanism to impose structure on a variety of data formats
